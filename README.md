@@ -55,14 +55,14 @@ Para cada dataset, os seguintes indicadores são apresentados:
 
 **classification_report**
 
-                precision   recall   f1-score   support
+                    precision   recall   f1-score   support
 
-           0       0.97      0.97      0.97       436
-           1       0.79      0.78      0.79        64
+               0       0.97      0.97      0.97       436
+               1       0.79      0.78      0.79        64
 
-    accuracy                           0.95       500
-   macro avg       0.88      0.88      0.88       500
-weighted avg       0.95      0.95      0.95       500
+        accuracy                           0.95       500
+       macro avg       0.88      0.88      0.88       500
+    weighted avg       0.95      0.95      0.95       500
   
 
 ### Dataset 'census.pkl'
@@ -73,14 +73,14 @@ weighted avg       0.95      0.95      0.95       500
   
   **classification_report**
 
-                precision    recall  f1-score   support
+                   precision    recall  f1-score   support
 
-       <=50K       0.88      0.93      0.90      3693
-        >50K       0.73      0.61      0.66      1192
+           <=50K       0.88      0.93      0.90      3693
+            >50K       0.73      0.61      0.66      1192
 
-    accuracy                           0.85      4885
-   macro avg       0.81      0.77      0.78      4885
-weighted avg       0.84      0.85      0.84      4885
+        accuracy                           0.85      4885
+       macro avg       0.81      0.77      0.78      4885
+    weighted avg       0.84      0.85      0.84      4885
 ---
 
 ## 🚀 Execução
