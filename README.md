@@ -83,17 +83,7 @@ Para cada dataset, os seguintes indicadores são apresentados:
     weighted avg       0.84      0.85      0.84      4885
 ---
 
-## 🚀 Execução
-
-Certifique-se de ter os arquivos `.pkl` no mesmo diretório e execute os notebooks ou scripts Python.
-
-```bash
-pip install -r requirements.txt
-python seu_script.py
-
---- 
-
-## 👨‍💻 Quem Desenvolveu
+ ## 👨‍💻 Quem Desenvolveu
 
 Projeto desenvolvido por:
 
@@ -104,8 +94,4 @@ Projeto desenvolvido por:
 
 ---
 
-## ✨ Contribuições
 
-Contribuições são muito bem-vindas! Sinta-se à vontade para fazer um fork, abrir uma issue ou mandar um pull request.
-
----
